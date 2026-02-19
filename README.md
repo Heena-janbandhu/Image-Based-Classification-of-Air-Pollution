@@ -45,8 +45,8 @@ Fine-tuning of top layers
 
 Model evaluation
 
-**🧠 Model Architecture
-**
+**🧠 Model Architecture**
+
 Base Model: ResNet50 (ImageNet pretrained)
 
 Custom Layers:
