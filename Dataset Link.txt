@@ -1,0 +1,3 @@
+Dataset: Air Quality Image Dataset
+Link: https://www.kaggle.com/datasets/pratik2901/air-quality-image-dataset
+Description: Multi-class air pollution image dataset used for training and evaluation.
